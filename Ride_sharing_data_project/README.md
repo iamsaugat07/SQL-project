@@ -18,3 +18,5 @@
   Sample Dataset used for this project [Click Here to View](https://github.com/iamsaugat07/data-project/blob/main/Ride_sharing_data_project/data/uber_data.csv)
  
  ## Data Dictionary [Click Here to View](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
+ 
+ [Reference](https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project)
