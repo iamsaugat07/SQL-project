@@ -1,4 +1,4 @@
-## data-project
+## Data-project
 This repo is collection of data engineering based project. 
 
 1. [Covid_project](https://github.com/iamsaugat07/data-project/tree/main/Covid_project)
