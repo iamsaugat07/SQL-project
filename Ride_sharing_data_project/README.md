@@ -7,14 +7,14 @@
   ## Data Pipeline
   ![image](https://github.com/iamsaugat07/data-project/assets/70828186/7b69a059-dd86-468e-8091-8603854b4176)
 
-  
+
 # Programming language used
 * Python 
 * SQL
 
-  ## Dataset
+## Dataset
   [Click Here to View Original Dataset](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
   
-  Sample Dataset used for this project 
+  Sample Dataset used for this project [Click Here to View](https://github.com/iamsaugat07/data-project/blob/main/Ride_sharing_data_project/data/uber_data.csv)
  
-  ## Data Dictionary [Click Here to View](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
+ ## Data Dictionary [Click Here to View](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
